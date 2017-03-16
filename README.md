@@ -1,2 +1,5 @@
-# project-layout
-POS system project layout with only used HTML and CSS3
+# Project-Layout
+
+POS system project layout
+
+ **Used Only HTML and CSS3
