@@ -1,5 +1,7 @@
 # Project-Layout
 
-POS system project layout
+POS system Project Layout
 
- **Used Only HTML and CSS3
+* Used Only HTML and CSS3
+* Font Awesome
+* 
